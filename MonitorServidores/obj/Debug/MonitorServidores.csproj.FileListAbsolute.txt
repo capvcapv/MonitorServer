@@ -1,0 +1,9 @@
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\bin\Debug\MonitorServidores.exe
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\bin\Debug\MonitorServidores.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\obj\Debug\MonitorServidores.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\obj\Debug\MonitorServidores.Form1.resources
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\obj\Debug\MonitorServidores.Properties.Resources.resources
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\obj\Debug\MonitorServidores.csproj.GenerateResource.Cache
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\obj\Debug\MonitorServidores.exe
+c:\users\carlos\documents\visual studio 2012\Projects\MonitorServidores\MonitorServidores\obj\Debug\MonitorServidores.pdb
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\MonitorServidores\MonitorServidores\bin\Debug\MonitorServidores.exe.config
